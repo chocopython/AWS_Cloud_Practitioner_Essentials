@@ -82,3 +82,29 @@ https://aws-hyoh.tistory.com/notice/3
 [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법]
 
 https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4
+
+### 참여자들
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Jangsehawn">
+      <img src="https://avatars.githubusercontent.com/u/47842699?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>장세환</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+     <a href="https://github.com/StatisticsFox">
+      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>최지혁</b>
+      </sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
