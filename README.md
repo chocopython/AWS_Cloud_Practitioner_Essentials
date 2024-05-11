@@ -124,5 +124,15 @@ https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Ar
       </a>
       <br />
     </td>
+   <td align="center">
+     <a href="https://github.com/jojaegu2/">
+      <img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>조재은</b>
+      </sub>
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
