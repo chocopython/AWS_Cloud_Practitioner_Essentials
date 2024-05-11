@@ -114,5 +114,15 @@ https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Ar
       </a>
       <br />
     </td>
+   <td align="center">
+     <a href="https://github.com/ujina123/">
+      <img src="[https://avatars.githubusercontent.com/u/84908849?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>이유진</b>
+      </sub>
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
