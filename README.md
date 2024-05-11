@@ -105,11 +105,11 @@ https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Ar
     <br />
     </td>
     <td align="center">
-     <a href="https://github.com/StatisticsFox">
-      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+     <a href="https://github.com/hotsun1508">
+      <img src="https://avatars.githubusercontent.com/u/60880176?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>최지혁</b>
+        <b>민선아</b>
       </sub>
       </a>
       <br />
